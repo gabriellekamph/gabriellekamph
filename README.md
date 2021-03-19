@@ -1,5 +1,4 @@
-# 👋
-Digital creative and (soon to be) front end developer. 
+# 👋 ## Digital creative and (soon to be) front end developer. 
 
 🎓 <br>
 Looking for internship 2022  <br>
